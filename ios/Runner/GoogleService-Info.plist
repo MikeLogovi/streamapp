@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518251553309-7252h6ngqt0am3fbl7k4epioqvjser3h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518251553309-7252h6ngqt0am3fbl7k4epioqvjser3h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdk5KpyqJ_7kiTE3nl5oPkPKNyR4kkWeA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518251553309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mikelogovi.blogapp</string>
+	<key>PROJECT_ID</key>
+	<string>blog-64fcb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blog-64fcb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518251553309:ios:808a8848d5fddb23b4dcf4</string>
+	<key>DATABASE_URL</key>
+	<string>https://blog-64fcb.firebaseio.com</string>
+</dict>
+</plist>
